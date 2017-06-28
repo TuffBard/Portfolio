@@ -2,6 +2,29 @@
 <br>
 <div class="list-group">
   <a class="list-group-item">
+    <h4 class="title"> Consultant .Net chez Umanis</h4>
+    <h5 class="title">Depuis novembre 2016</h5>
+    <br>
+    <p class="list-group-item-text">
+      <p class="subtitle">Projet Vertuoz - SSinergie</p>
+      <b>Technologies utilisées</b> - ASP.Net MVC, DevExpress, JS, jQuery, Bootstrap
+      <br> <b>Objectifs:</b>
+      <ul>
+        <li>Ajout de fonctionnalités sur l'application existante</li>
+      </ul>
+      <p class="subtitle">Projet CNIPT (Comission National Interprofessionel de la Pomme de Terre)</p>
+      <b>Technologies utilisées</b> - ASP.Net MVC Core, Entity Framework Core, Identity Server, JS, jQuery, Bootstrap, SSRS
+      <b>Objectifs:</b>
+      <ul>
+        <li>Création d'une applicaiton de gestion pour la CNIPT</li>
+        <li>Création de rapport SSRS</li>
+      </ul>
+    </p>
+  </a>
+</div>
+
+<div class="list-group">
+  <a class="list-group-item">
     <h4 class="title"> Développeur Web au Centre Hospitalier de Chalon-sur-saône</h4>
     <h5 class="title">Juillet 2015 - Septembre 2016</h5>
     <center>En alternance dans le cadre d'une licence Développement et Administration du Système d'Information. (DASI)</center>
