@@ -1,0 +1,14 @@
+<script type="text/javascript">
+var alea = Math.floor(Math.random()*100);
+var nb = prompt("Jeu du nombre myst\352re! \n\nEntrez un nombre entre 0 et 100:");
+console.log(nb);
+while(nb != alea){
+  if(nb < 0 || nb > 100 || nb === null)
+    nb = prompt("Entrez un nombre entre 0 et 100:");
+  else if(nb > alea)
+    nb = prompt("Plus petit que :"+nb);
+  else
+    nb = prompt("Plus grand que :"+nb);
+}
+alert("GAGNE!!\nF5 pour recommencer");
+</script>

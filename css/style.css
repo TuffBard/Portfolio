@@ -1,0 +1,50 @@
+.photo{
+  width: 160px;
+}
+
+body{
+  background-color: #eee;
+}
+
+.presentation{
+  padding: 20px;
+
+  background: #fff;
+}
+
+.shadow{
+  /*Ombres*/
+  box-shadow: 0px 0px 5px 0px rgba(194,194,194,1);
+}
+
+.center{
+  text-align: center;
+}
+
+.hand{
+  cursor: pointer;
+}
+
+.title {
+  color: #31708f;
+  text-align: center;
+  font-weight: bold;
+}
+
+h4, .subtitle {
+  color: #3498db;
+  font-weight: bold;
+}
+
+body {
+  color: #555;
+}
+
+p {
+  text-align: justify;
+}
+
+.panel-body{
+  text-align: center;
+  font-weight: bold;
+}
